@@ -1,4 +1,5 @@
 # GitHub for Developers
+#
 
 - Class Date: Aug 21 - 22, 2023
 - Facilitator: @cody-carlson
