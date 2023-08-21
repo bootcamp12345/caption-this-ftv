@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Super cool caption from ross!!
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
